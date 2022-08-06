@@ -15,3 +15,8 @@
 ![Blog](https://github-readme-stats.vercel.app/api?username=engmfes&theme=blue-green)
 
 ![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=engmfes&theme=blue-green)
+
+
+<p1><strong>Conect with me:<strong></p1>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:\\https://www.linkedin.com/in/mois%C3%A9s-ferreira-eleut%C3%A9rio-silva-97451492/)
