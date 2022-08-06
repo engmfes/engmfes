@@ -1,5 +1,5 @@
 <br> <strong> Hello, my name is Moisés Ferreira ✋ </strong></br>
-<p> I'm Civil Engineer, Environmental Engineer, have concluded MBA in Leadership & innovation and Master Degree in Civil Construction. </p>
+<p> I'm Civil Engineer, Environmental Engineer, also concluded MBA in Leadership & innovation and a Master Degree in Civil Construction. </p>
 <p> In 2021, I have decided to study more about Computer Programming, once you have the possibility to implement new solutions for the most industry non-solved problems, especially engineering bottlenecks. Since then, this young career have shown how far we can built a better future throght intelligent codes. 🚀
 
 
