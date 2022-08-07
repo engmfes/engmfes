@@ -21,8 +21,13 @@
 
 ![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=engmfes&theme=blue-green)
 
-
 <p1><strong>Connect With Me :<strong></p1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mois%C3%A9s-ferreira-eleut%C3%A9rio-silva-97451492/)
+
+<div>
+  
+  ![Snake animation](https://github.com/mhar-vell/mhar-vell/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
